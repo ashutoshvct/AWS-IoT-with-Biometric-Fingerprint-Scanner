@@ -1,13 +1,15 @@
 # AWS-IoT-with-Biometric-Fingerprint-Scanner
 Hi,
+
 I'm developing a connection between eSSL X990 (An attendance and payroll management biometric scanner) and IoT.
-I will use all the resources related to AWS for real time attendance.
+I will use all the resources and services related to AWS for real time attendance.
+
 Any Contribution is Appriciated.
 Here is the link to the device:
 http://www.esslsecurity.com/product/x990.
 
 
-#Three ways to achieve this :
+#The Three ways to achieve this :
 1) Device -> Specialize Software -(MQTT/WebSocket/HTTP RESTful - Device Shadow)-> IoT.
 
 2) Device -> Specialize Software -(HTTP RESTful)-> API Gateway -> Lambda funciton (to process data) -> DynamoDB.
