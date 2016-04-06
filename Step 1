@@ -1,6 +1,6 @@
 #Steps to install and run Biometric fingerprint Scanner
 
-1. First of all Download Visual studio.
+1. First of all Download and install Visual studio.
 2. Next step is to download the SDK from the eSSL website: http://www.esslsecurity.com/catalog/softwares-0
 3. Now Follow these steps:
 Important Note:
@@ -9,7 +9,7 @@ Important Note:
 
 2) Paste all dll in Folder Path "  C:\Windows\System32\drivers  ".
 
-3) Register all dll.  
+3) Register all dll--->Link for registering-->http://www.wikihow.com/Register-a-DLL
 
 4) open microsoft visual basic software and give Same Ip address which is given in device. 
 
